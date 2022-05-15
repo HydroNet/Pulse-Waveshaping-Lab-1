@@ -1,0 +1,6 @@
+* source LAB 1
+M_M1         N00310 N00314 N00292 N00292 Mbreakp           
+M_M2         N00310 N00314 0 0 Mbreakn           
+V_V1         N00314 0  
++PULSE 5V 0V 0 .111us .111us .444us 1.11us
+V_V2         N00292 0 5V
